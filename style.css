@@ -1,0 +1,7 @@
+body{background-color:rgb(190 190 190); font-family: "Gill Sans", sans-serif;font-weight: lighter; text-align: center;}
+h1{font-family: "Gill Sans", sans-serif;font-weight: lighter; text-align: center;}
+h2{font-family: "Gill Sans", sans-serif;font-weight: lighter; text-align: center;}
+p{font-size: 20px; letter-spacing: 0.5px; text-align: center;}
+a{color: rgb(256 256 256);text-decoration: none; text-align: center;} 
+img{width: 200px; text-align: center;}
+#img-circl{border-radius: 25%}
